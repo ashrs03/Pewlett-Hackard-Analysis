@@ -10,4 +10,4 @@ Employee count per Title
 ![image](https://user-images.githubusercontent.com/42523379/198900693-7919793b-6840-4a04-9a8b-4a2e95bd4e5e.png)
 
 Retirement title results summary 
-![image](https://user-images.githubusercontent.com/42523379/198901051-b4027087-95d2-48d0-8b4f-c8580f5693e9.png)
+![image](https://user-images.githubusercontent.com/42523379/198901117-a7b1a573-67d8-490d-a79a-1ee42ff0ec88.png)

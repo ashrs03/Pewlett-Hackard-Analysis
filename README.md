@@ -34,9 +34,12 @@ Further query was written to retrieve the number of employees by their most rece
 
 ![image](https://user-images.githubusercontent.com/42523379/198900198-73c3f0a6-31dc-4610-ac54-efb7100627db.png)
 
-To get informaiton on number of retirees that may be eligible to offer mentorship mentorship eligibility  table was built with filter based on employees with birthdate in 1965 (born between January 1, 1965 and December 31, 1965).
+To get informaiton on number of retirees that may be eligible to offer mentorship, the mentorship eligibility table was built with filter based on employees with birthdate in 1965 (born between January 1, 1965 and December 31, 1965).
 
 ![image](https://user-images.githubusercontent.com/42523379/198900465-cb2123df-cba9-476f-b2ce-eb40f58c812a.png)
 
 ## Summary
 
+Senior Engineers and Senior staff are the two titles with maximum count for those retiring and constitutes over 60% of the retiring population. 
+
+For those born in year 1965, there are 1549 employees who cna be considered to offer mentorship. 
